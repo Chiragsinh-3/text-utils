@@ -14,7 +14,7 @@ const Navbar = (props) => {
         <span className="py-5 ml-16 hover:border-b-2 hover:border-emerald-500 transition-all duration-150">
           <a
             className="text-2xl dark:bg-emerald-900/30"
-            href="/"
+            href="/text-utils"
           >
             Text Utils
           </a>

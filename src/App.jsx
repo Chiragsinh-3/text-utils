@@ -41,7 +41,7 @@ function App() {
           timeout={300}
           classNames="slide"
           unmountOnExit
-          
+          appear
         >
           <Alert mode={mode} />
         </CSSTransition>
